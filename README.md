@@ -47,8 +47,8 @@ All simulations followed the exact procedures detailed in the original documenta
   - 10T SNM: 190 mV (90 mV improvement)
 
   <p align="center">
-    <img src="assets/6T/SNM.png" width="45%" alt="6T SNM Waveform">
-    <img src="assets/10T/SNM.png" width="45%" alt="10T SNM Waveform">
+    <img src="assets/6T/SNM.png?v=2" width="45%" alt="6T SNM Waveform">
+    <img src="assets/10T/SNM.png?v=2" width="45%" alt="10T SNM Waveform">
     <br><em>Left: 6T SNM | Right: 10T SNM</em>
   </p>
 
@@ -61,8 +61,8 @@ All simulations followed the exact procedures detailed in the original documenta
   - 10T Leakage Power: 345 pW (492.85 pA) - **99% reduction**
 
   <p align="center">
-    <img src="assets/6T/Leakage.png" width="45%" alt="6T Leakage Waveform">
-    <img src="assets/10T/Leakage.png" width="45%" alt="10T Leakage Waveform">
+    <img src="assets/6T/Leakage.png?v=2" width="45%" alt="6T Leakage Waveform">
+    <img src="assets/10T/Leakage.png?v=2" width="45%" alt="10T Leakage Waveform">
     <br><em>Left: 6T Leakage Current | Right: 10T Leakage Current</em>
   </p>
 
@@ -75,8 +75,8 @@ All simulations followed the exact procedures detailed in the original documenta
   - 10T Write Delay: 5.24 ps (12% improvement)
 
   <p align="center">
-    <img src="assets/6T/Write_Delay.png" width="45%" alt="6T Write Delay Waveform">
-    <img src="assets/10T/Write_Delay.png" width="45%" alt="10T Write Delay Waveform">
+    <img src="assets/6T/Write_Delay.png?v=2" width="45%" alt="6T Write Delay Waveform">
+    <img src="assets/10T/Write_Delay.png?v=2" width="45%" alt="10T Write Delay Waveform">
     <br><em>Left: 6T Write Delay | Right: 10T Write Delay</em>
   </p>
 
