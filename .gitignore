@@ -1,0 +1,13 @@
+# LTspice Simulation Files to Ignore
+*.raw
+*.log
+*.plt
+*.net
+*.op.raw
+*~
+*.swp
+*.awb
+
+# OS specific files
+.DS_Store
+Thumbs.db
